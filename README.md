@@ -1,3 +1,4 @@
 # Curriculum Vitae
 
-Currículo pessoal feito em LaTeX, utilizando o template _ como base.
+Curriculum pessoal escrito em LaTeX utilizando o modelo do RenderCV
+
